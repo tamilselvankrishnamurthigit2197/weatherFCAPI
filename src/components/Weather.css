@@ -64,10 +64,10 @@
 .forecast-container{
     display: flex;
     justify-content: space-around;
-    padding: 2px;
 }
 .forecast-day{
     text-align: center;
+    padding: 1px;
 }
 .forecast{
     margin-top: 20px;
